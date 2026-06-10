@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survival_smp-1.aternos.me",
-    "port": 54412,
+    "ip": "reviver_smp6.aternos.me",
+    "port": 23348,
     "version": "",
     "try-creative": false
   },
